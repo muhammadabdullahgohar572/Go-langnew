@@ -28,8 +28,8 @@ func main() {
 		// fmt.Printf("The value of complex number is %v , %T",c,c)
 		// fmt.Printf("\n");
 
-		// var d =complex(2,5)
-		// fmt.Printf("The value of complex number is %v , %T",d,d)
+		var d =complex(2,5)
+		fmt.Printf("The value of complex number is %v , %T",d,d,"\n")
 
 		// fmt.Printf("\n");
 
